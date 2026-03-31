@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /polityka-prywatnosci
+Disallow: /regulamin
+
+Sitemap: https://origamilabs.pl/sitemap.xml
