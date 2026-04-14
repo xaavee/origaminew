@@ -51,7 +51,7 @@ export default function Pricing() {
                   <td className="p-6 font-semibold text-dark">Koszt miesięczny</td>
                   <td className="p-6 text-center text-red-500 font-bold">15% - 25%</td>
                   <td className="p-6 text-center bg-primary/5">
-                    <div className="text-primary font-bold text-lg">299zł + od 5,99%</div>
+                    <div className="text-primary font-bold text-lg">399zł + od 1,99%</div>
                     <div className="text-xs text-slate-500 mt-1">Prowizja tylko ze strony<br/>(3x taniej niż OTA!)</div>
                   </td>
                   <td className="p-6 text-center font-medium text-dark">
