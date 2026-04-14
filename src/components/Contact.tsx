@@ -73,7 +73,7 @@ export default function Contact() {
               </div>
             ) : (
               <form onSubmit={handleSubmit} className="space-y-6">
-                <h3 className="text-2xl font-bold text-dark mb-6">Umów darmo konsultację</h3>
+                <h3 className="text-2xl font-bold text-dark mb-6">Umów darmową konsultację</h3>
                 
                 <div>
                   <label htmlFor="name" className="block text-sm font-semibold text-slate-700 mb-2">

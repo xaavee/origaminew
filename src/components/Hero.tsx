@@ -39,11 +39,11 @@ export default function Hero() {
             className="max-w-[38rem]"
           >
             <h1 className="text-[2.8rem] sm:text-[3.4rem] md:text-[2.5rem] lg:text-[3.8rem] font-bold text-dark leading-[1.1] mb-5">
-              Przestań Oddawać <span className="text-primary italic">20% Prowizji</span> Portalom.
+              <span className="font-sans">Pusty kalendarz?</span> <span className="font-sans italic text-primary">Koniec z tym.</span>
             </h1>
             
             <p className="text-base sm:text-lg md:text-sm lg:text-lg text-slate-600 mb-7 leading-relaxed">
-              <span className="underline decoration-primary decoration-2 underline-offset-4">Zatrzymaj zyski u siebie</span>. Budujemy maszyny do rezerwacji bezpośrednich, łącząc AI, precyzyjne reklamy, skuteczne strony i profesjonalny design.
+              <span className="underline decoration-primary decoration-2 underline-offset-4">Zapełniamy Twoje terminy w 100 %.</span>Budujemy maszyny do rezerwacji bezpośrednich, łącząc AI, targetowane reklamy, konwertujące strony i profesjonalny design.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4">
