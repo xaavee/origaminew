@@ -18,8 +18,7 @@ function LandingPage() {
       <Features />
       <Process />
       <Testimonials />
-      <Calculator />
-      <Pricing />
+    
       <Contact />
     </main>
   );
