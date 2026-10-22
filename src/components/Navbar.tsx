@@ -62,8 +62,7 @@ export default function Navbar() {
             <a href="/#uslugi" className="text-[13px] font-medium text-slate-600 hover:text-primary transition-colors">Usługi</a>
             <a href="/#proces" className="text-[13px] font-medium text-slate-600 hover:text-primary transition-colors">Proces</a>
             <a href="/#opinie" className="text-[13px] font-medium text-slate-600 hover:text-primary transition-colors">Opinie</a>
-            <a href="/#kalkulator" className="text-[13px] font-medium text-slate-600 hover:text-primary transition-colors">Kalkulator</a>
-            <a href="/#cennik" className="text-[13px] font-medium text-slate-600 hover:text-primary transition-colors">Cennik</a>
+           
             <a 
               href="/#kontakt" 
               className="bg-primary text-white px-5 py-2 text-[13px] font-semibold hover:bg-primary-hover transition-colors rounded-none"
