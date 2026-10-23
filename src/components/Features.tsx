@@ -16,7 +16,7 @@ const features = [
   // },
   {
     icon: Megaphone,
-    title: 'Reklamy Facebook',
+    title: 'Kampanie Meta Ads',
     description: 'Precyzyjnie targetowane kampanie w mediach społecznościowych, które budują świadomość marki i ściągają kaloryczny ruch bezpośrednio do Twojego systemu.'
   },
   {
