@@ -15,8 +15,8 @@ const steps = [
   },
   {
     number: '03',
-    title: 'Budowa Strony i Wdrożenie AI',
-    description: 'Projektujemy wysoko konwertującą stronę www, integrujemy system rezerwacji (Booking Engine) i uruchamiamy Asystenta AI 24/7.'
+    title: 'Budowa Strony i Wdrożenie',
+    description: 'Projektujemy wysoko konwertującą stronę www, integrujemy system rezerwacji (Booking Engine), wdrażamy narzędzia do analityki'
   },
   {
     number: '04',
