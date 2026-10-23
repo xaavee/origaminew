@@ -40,13 +40,6 @@ const testimonials = [
     image: 'https://oricdn.origamilabs.pl/573851013_17843454870609889_380339509632644343_n.jpg',
     text: 'Profesjonalizm na każdym kroku. Sesja zdjęciowa i zdjecia z drona pokazały nasz dom z jego najlepszej strony. Kampanie reklamowe generują nam stały ruch, a my nie musimy płacić prowizji pośrednikom.',
     rating: 5
-  },
- 
-  {
-    name: 'Górskie Domki',
-    image: 'https://oricdn.origamilabs.pl/gorskiedomki.png',
-    text: 'Najlepsza inwestycja w marketing. Asystent AI odpowiada na pytania gości o 2 w nocy. Inwestycja zwróciła się po pierwszym miesiącu działania. Polecam każdemu!',
-    rating: 5
   }
 ];
 
