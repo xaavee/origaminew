@@ -62,9 +62,9 @@ export default function Testimonials() {
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="text-center max-w-3xl mx-auto mb-16">
-          <p className="text-primary font-semibold tracking-wider uppercase text-sm mb-3">Historie Sukcesu</p>
+          {/* <p className="text-primary font-semibold tracking-wider uppercase text-sm mb-3">Historie Sukcesu</p> */}
           <h2 className="text-4xl md:text-5xl font-bold text-dark mb-6">
-            Zaufali Nam Liderzy Branży
+            Historie Sukcesu
           </h2>
           <p className="text-lg text-slate-600">
             Zobacz, jak pomogliśmy innym obiektom uniezależnić się od portali OTA i drastycznie zwiększyć zyski z rezerwacji bezpośrednich.
