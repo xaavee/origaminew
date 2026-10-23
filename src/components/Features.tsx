@@ -9,11 +9,11 @@ const features = [
     title: 'Wysoko Konwertujące WWW',
     description: 'Tworzymy i przebudowujemy strony www nastawione na jeden cel: maksymalizację rezerwacji bezpośrednich. Szybkie, piękne i zoptymalizowane pod sprzedaż.'
   },
-  {
-    icon: Bot,
-    title: 'Asystent AI 24/7',
-    description: 'Inteligentny chatbot, który odpowiada na pytania gości, doradza i domyka rezerwacje o każdej porze dnia i nocy, bez Twojego udziału.'
-  },
+  // {
+  //   icon: Bot,
+  //   title: 'Asystent AI 24/7',
+  //   description: 'Inteligentny chatbot, który odpowiada na pytania gości, doradza i domyka rezerwacje o każdej porze dnia i nocy, bez Twojego udziału.'
+  // },
   {
     icon: Megaphone,
     title: 'Reklamy Facebook',
