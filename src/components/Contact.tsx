@@ -128,7 +128,7 @@ export default function Contact() {
                   />
                 </div>
 
-                <div>
+                {/* <div>
                   <label htmlFor="model" className="block text-sm font-semibold text-slate-700 mb-2">
                     Preferowany model rozliczenia (opcjonalnie)
                   </label>
@@ -142,7 +142,7 @@ export default function Contact() {
                     <option value="hybrid">Rozliczenie Hybrydowe (Abonament + Prowizja)</option>
                     <option value="fixed">Rozliczenie Stałe (Tylko Abonament)</option>
                   </select>
-                </div>
+                </div> */}
 
                 <button
                   type="submit"
